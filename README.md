@@ -1,60 +1,104 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+
+# Hi, I'm Saleh Alabdulhai 👋
+
+### Cybersecurity Specialist | Red / Blue Team | Python Developer
+
+مختص أمن سيبراني | اختبار اختراق واستجابة للحوادث | مطوّر Python
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-salehalabdulhai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salehalabdulhai)
+[![Telegram](https://img.shields.io/badge/Telegram-أم_البوتات-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MomBotXD)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+
 </div>
 
-###
+---
+
+## 🧑‍💻 About Me
+
+I'm a cybersecurity specialist from Al-Ahsa, Saudi Arabia, interested in both offensive and defensive security. I started as a Python developer (5+ years) and moved into security, which helps me **understand code, not just test it**.
+
+- 🎓 Final-semester Computer Technical Support diploma student, graduating **December 2026**
+- 🔍 Currently doing cooperative training covering Linux server administration and web application security assessments
+- 🎯 Looking for opportunities in **Penetration Testing, SOC / Incident Response, and Security Analysis**
+- 🤖 Founder of **أم البوتات (Umm Al-Botat)**, a Telegram community for bot programming with **70,000+ users**
+- 🏠 I run my own self-hosted lab and services on a home server
+
+---
+
+## 🏅 Certifications
+
+| Certification | Focus |
+|---|---|
+| **eWPTX** (INE) | Advanced web application and API penetration testing |
+| **eWPTv2** (INE) | Web application penetration testing |
+| **eJPTv2** (INE) | Junior penetration testing |
+| **eCIR** (INE) | Incident response, PCAP analysis, forensics, SIEM investigation |
+| **CRTA** (CyberWarFare Labs) | Active Directory red team analysis |
+| **PT1** (TryHackMe) | Practical penetration testing |
+| **PCAP** (Python Institute) | Python programming |
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner, Cyber Techie Challenge, BlackHat MEA 2024**
+- 🥈 Second place, university CTF organized by the Cybersecurity Club at the University of Jeddah (CyberHub)
+- 🚩 Top placements in CTFs including CyberHub, HackHub and InfoSec CTF
+- 🎤 Delivered a **30-hour PT1 (TryHackMe) preparation course** in the CyberPro bootcamp, organized by the Cybersecurity Club KFU and Tuwaiq Club
+
+---
+
+## 🛠️ Tech Stack
+
+**Security:**
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-C8102E?style=flat-square)
+
+**Development:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+**Infrastructure:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+---
+
+## 🏠 Home Lab: "Hub"
+
+I run a personal home server that hosts my projects and services in isolated Docker containers:
+
+- 📺 Jellyfin, ☁️ Nextcloud, 🏠 Home Assistant, 🎮 Minecraft server
+- 🌐 Services exposed through Cloudflare on my own domain
+- 🔄 Automated backups with cron, compressed and sent every 6 hours
+- 🐍 Separate Python virtual environments and a clean handler / service / config structure for every bot
+
+**Lesson learned:** a backup you have never restored is not a backup. An automated backup saved my work after an accidental `rm -rf` on my bots folder, and restoring took minutes instead of weeks.
+
+---
+
+## ✍️ What I'm Working On
+
+- 🔬 Building a home SOC lab to practice detection and response
+- 📝 Writing CTF and lab write-ups
+- 🧪 Strengthening my low-level and offensive tooling skills
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: [linkedin.com/in/salehalabdulhai](https://www.linkedin.com/in/salehalabdulhai)
+- 📣 Telegram channel: [أم البوتات](https://t.me/MomBotXD)
 
 <div align="center">
-  <a href="https://twitter.com/S75XD" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  </a>
-  <a href="https://www.instagram.com/8_wvu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
+
+⭐ *"Sometimes the most valuable improvement is not in the code itself, but in how you organize your project."*
+
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=S75XD.S75XD&"  />
-</div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">- 🔭 I’m working as 🐹<br>- 📚 I'm currently learning bug bounty<br>- ⚡ In my free time I eat</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=S75XD&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
