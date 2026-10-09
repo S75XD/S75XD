@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-salehalabdulhai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salehalabdulhai)
 [![Telegram](https://img.shields.io/badge/Telegram-أم_البوتات-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/MomBotXD)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 
 </div>
 
